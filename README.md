@@ -9,7 +9,7 @@ Aquí se realizan las practicas en Django, que es un framework marco de tranajo 
 6. Crear entorno virtual --> py -3 -m venv .venv
 7. Activar entorno virtual --> .venv\scripts\activate.bat
 8. Seleccionar interprete de python presione F1
-9. Actualizar pip
+9. Actualizar pip --> python -m pip install --upgrade pip
 10. Innstalar Framework Django --> python -m pip install django
 11. Crear el proyecto en python Django --> django-admin startproject cbtis1285J1186 .
 12. Ejecutar en el servidor --> python manage.py runserver
