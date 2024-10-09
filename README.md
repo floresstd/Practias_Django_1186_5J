@@ -12,6 +12,7 @@ Aquí se realizan las practicas en Django, que es un framework marco de tranajo 
 9. Actualizar pip --> python -m pip install --upgrade pip
 10. Innstalar Framework Django --> python -m pip install django
 11. Crear el proyecto en python Django --> django-admin startproject cbtis1285J1186 .
-12. Ejecutar en el servidor --> python manage.py runserver
-13. Realizar migracion --> python manage.py migrate
-14. Vuelve a ejecutar el servidor --> http://127.0.0.1:8000/
+12. Crear la app --> python manage.py startapp cbtis_app
+13. Ejecutar en el servidor --> python manage.py runserver
+14. Realizar migracion --> python manage.py migrate
+15. Vuelve a ejecutar el servidor --> http://127.0.0.1:8000/
